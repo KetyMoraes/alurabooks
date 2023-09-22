@@ -1,13 +1,5 @@
-@import url("style/header.css");
-@import url("styles/banner.css");
-@import url("styles/carossel.css");
-@import url("styles/topicos.css");
-@import url("styles/contato.css");
-@import url("styles/rodapé.css");
-
-:root {}
-   --cor-de-fundo: #EBECEE;
-   --branco: #FFFFF ;
-body {
-    background-color: var(--cor-de-fundo);
+.cabeçalho__menu-hamburguer.{
+ widht: 24px;
+ height: ;
 }
+    
